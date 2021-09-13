@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Quiros-COP330 Ex1" />
+        <module name="Quiros-COP3330-Ex1" />
       </profile>
     </annotationProcessing>
   </component>
